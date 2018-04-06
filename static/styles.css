@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.container {
+  padding: 50px;
+}
+
+#main {
+  border: 1px solid black;
+  padding: 15px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+.centerText {
+  text-align: center
+}
